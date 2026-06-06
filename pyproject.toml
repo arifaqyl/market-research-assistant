@@ -1,7 +1,7 @@
 [project]
-name = "prop-firm-research-assistant"
+name = "market-research-assistant"
 version = "0.1.0"
-description = "Safety-first AI trading analyzer, paper execution engine, and prop-style risk scaffold."
+description = "Safety-first AI market research analyzer, paper execution engine, and risk scaffold."
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.0",
